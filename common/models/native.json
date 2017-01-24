@@ -1,5 +1,5 @@
 {
-  "name": "Account",
+  "name": "Native",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
@@ -7,8 +7,7 @@
   },
   "properties": {
     "email": {
-      "type": "string",
-      "required" : true
+      "type": "string"
     },
     "createdAt": {
       "type": "date"

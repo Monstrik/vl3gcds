@@ -35,5 +35,9 @@
   "Account": {
     "dataSource": "db2",
     "public": true
+  },
+  "Native": {
+    "dataSource": "db",
+    "public": true
   }
 }
